@@ -1,0 +1,2452 @@
+[
+  {
+    "category": "Career Guidance",
+    "question": "Help me understand this: How to switch from frontend developer to product manager?",
+    "answer": "Learn product management fundamentals, work closely with PMs, and consider taking a short certification course in product management."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "Can you tell me: what keywords should I include for a UI/UX designer?",
+    "answer": "Include terms like user research, wireframing, prototyping, Figma, Adobe XD, usability testing."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "I want to know: who earns more, software engineers or designers?",
+    "answer": "On average, software engineers earn more, but top-tier designers are also highly paid."
+  },
+  {
+    "category": "Company Insights",
+    "question": "What does a product manager do at Amazon?",
+    "answer": "Defines product vision, works with engineering teams, and ensures delivery on customer-focused goals."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "How to learn cloud computing?",
+    "answer": "Start with basic cloud concepts, then choose a provider like AWS, Azure, or GCP and follow structured courses."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "Help me understand this: Which certifications are good for cloud computing?",
+    "answer": "Consider AWS Certified Solutions Architect or Google Cloud Associate Engineer."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "What does a DevOps engineer do?",
+    "answer": "A DevOps engineer automates and streamlines software delivery and infrastructure updates."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "I know Python, SQL, and Excel. What job suits me?",
+    "answer": "You're a good fit for Data Analyst, Business Analyst, or Entry-Level Data Scientist."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "I want to know: what does a DevOps engineer do?",
+    "answer": "A DevOps engineer automates and streamlines software delivery and infrastructure updates."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "Can the bot give me spoken replies?",
+    "answer": "Yes, using Text-to-Speech, the bot can deliver spoken responses."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "Can you tell me: compare data analyst and data scientist roles.",
+    "answer": "Data analysts focus on reporting; data scientists build models and derive insights."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "Help me understand this: Is 2 years of experience enough for a mid-level role?",
+    "answer": "Yes, in some startups or fast-growth companies, 2 years can be considered mid-level."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "Help me understand this: What is the best way to learn data structures?",
+    "answer": "Use visual tools like VisuAlgo, read 'Cracking the Coding Interview', and practice on LeetCode."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "Can you tell me: can I get feedback on my LinkedIn screenshot?",
+    "answer": "Yes, upload it and get insights on strengths, missing sections, and improvements."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "I want to know: how to switch from frontend developer to product manager?",
+    "answer": "Learn product management fundamentals, work closely with PMs, and consider taking a short certification course in product management."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "Can you tell me: how can I improve my LinkedIn profile?",
+    "answer": "Add a professional headline, detailed work descriptions, quantify achievements, and list certifications."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "What skills are needed for a data analyst?",
+    "answer": "A data analyst needs skills in SQL, Excel, Python, data visualization tools like Tableau or Power BI, and statistics."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "Can you tell me: what skills are needed for a data analyst?",
+    "answer": "A data analyst needs skills in SQL, Excel, Python, data visualization tools like Tableau or Power BI, and statistics."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "I want to know: i’m good at HTML, CSS, and JavaScript. What roles should I target?",
+    "answer": "Frontend Developer, Web Designer, or Junior UI Engineer."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "Can you suggest skills based on my past queries? Please explain.",
+    "answer": "Yes, I’ll analyze your past activity and provide tailored suggestions."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "Is 2 years of experience enough for a mid-level role?",
+    "answer": "Yes, in some startups or fast-growth companies, 2 years can be considered mid-level."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "What tools should a data scientist know?",
+    "answer": "Python, R, SQL, Jupyter, TensorFlow, Scikit-learn, and Tableau."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "I want to know: how to switch from frontend developer to product manager?",
+    "answer": "Learn product management fundamentals, work closely with PMs, and consider taking a short certification course in product management."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "Can you tell me: can the bot give me spoken replies?",
+    "answer": "Yes, using Text-to-Speech, the bot can deliver spoken responses."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "Can you tell me: which certifications are good for cloud computing?",
+    "answer": "Consider AWS Certified Solutions Architect or Google Cloud Associate Engineer."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "Can you suggest skills based on my past queries?",
+    "answer": "Yes, I’ll analyze your past activity and provide tailored suggestions."
+  },
+  {
+    "category": "Company Insights",
+    "question": "What does a product manager do at Amazon?",
+    "answer": "Defines product vision, works with engineering teams, and ensures delivery on customer-focused goals."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "Can you tell me: how to learn cloud computing?",
+    "answer": "Start with basic cloud concepts, then choose a provider like AWS, Azure, or GCP and follow structured courses."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "Can you tell me: is my LinkedIn profile strong?",
+    "answer": "Let's analyze the image. If you're missing achievements or certifications, I’ll suggest them."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "Can I get feedback on my LinkedIn screenshot? Please explain.",
+    "answer": "Yes, upload it and get insights on strengths, missing sections, and improvements."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "Can you tell me: can the bot give me spoken replies?",
+    "answer": "Yes, using Text-to-Speech, the bot can deliver spoken responses."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "Can you tell me: what tools should a data scientist know?",
+    "answer": "Python, R, SQL, Jupyter, TensorFlow, Scikit-learn, and Tableau."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "I want to know: can I talk to the bot about my career?",
+    "answer": "Yes, you can ask questions using voice and the bot will respond via speech."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "Who earns more, software engineers or designers?",
+    "answer": "On average, software engineers earn more, but top-tier designers are also highly paid."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "Can you tell me: what are some career paths for a software engineer?",
+    "answer": "You can grow into roles like Senior Developer, Team Lead, Architect, or transition to Product Manager or Engineering Manager."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "What skills are needed for a data analyst?",
+    "answer": "A data analyst needs skills in SQL, Excel, Python, data visualization tools like Tableau or Power BI, and statistics."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "Where can I learn Python for free?",
+    "answer": "Use freeCodeCamp, Coursera free trials, or YouTube channels like CS Dojo."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "Help me understand this: I know Python, SQL, and Excel. What job suits me?",
+    "answer": "You're a good fit for Data Analyst, Business Analyst, or Entry-Level Data Scientist."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "Can you remember my career goals?",
+    "answer": "Yes, with user login enabled, I can track your goals and progress over time."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "How can I improve my LinkedIn profile?",
+    "answer": "Add a professional headline, detailed work descriptions, quantify achievements, and list certifications."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "Help me understand this: Can you remember my career goals?",
+    "answer": "Yes, with user login enabled, I can track your goals and progress over time."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "What is the best way to learn data structures?",
+    "answer": "Use visual tools like VisuAlgo, read 'Cracking the Coding Interview', and practice on LeetCode."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "Is my LinkedIn profile strong? Please explain.",
+    "answer": "Let's analyze the image. If you're missing achievements or certifications, I’ll suggest them."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "Where can I learn Python for free? Please explain.",
+    "answer": "Use freeCodeCamp, Coursera free trials, or YouTube channels like CS Dojo."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "How to learn cloud computing? Please explain.",
+    "answer": "Start with basic cloud concepts, then choose a provider like AWS, Azure, or GCP and follow structured courses."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "How much experience is needed for a senior engineer? Please explain.",
+    "answer": "Typically 5–7 years of relevant experience with leadership and architectural exposure."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "Can you tell me: how to switch from frontend developer to product manager?",
+    "answer": "Learn product management fundamentals, work closely with PMs, and consider taking a short certification course in product management."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "Can you tell me: how much experience is needed for a senior engineer?",
+    "answer": "Typically 5–7 years of relevant experience with leadership and architectural exposure."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "What are trending skills in tech?",
+    "answer": "AI/ML, cloud computing, cybersecurity, and DevOps are among the most in-demand skills."
+  },
+  {
+    "category": "Company Insights",
+    "question": "Can you tell me: what does a product manager do at Amazon?",
+    "answer": "Defines product vision, works with engineering teams, and ensures delivery on customer-focused goals."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "What are trending skills in tech?",
+    "answer": "AI/ML, cloud computing, cybersecurity, and DevOps are among the most in-demand skills."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "What tools does a backend developer use? Please explain.",
+    "answer": "They typically use Node.js, Python, Java, databases like PostgreSQL, and tools like Docker."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "Can you tell me: is 2 years of experience enough for a mid-level role?",
+    "answer": "Yes, in some startups or fast-growth companies, 2 years can be considered mid-level."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "I want to know: what skills are needed for a data analyst?",
+    "answer": "A data analyst needs skills in SQL, Excel, Python, data visualization tools like Tableau or Power BI, and statistics."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "Who earns more, software engineers or designers?",
+    "answer": "On average, software engineers earn more, but top-tier designers are also highly paid."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "How much experience is needed for a senior engineer? Please explain.",
+    "answer": "Typically 5–7 years of relevant experience with leadership and architectural exposure."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "Can you tell me: can the bot give me spoken replies?",
+    "answer": "Yes, using Text-to-Speech, the bot can deliver spoken responses."
+  },
+  {
+    "category": "Company Insights",
+    "question": "Help me understand this: What is it like working at Google as a SWE?",
+    "answer": "You’ll work on scalable systems, get great perks, and collaborate with top engineers."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "Help me understand this: Is my LinkedIn profile strong?",
+    "answer": "Let's analyze the image. If you're missing achievements or certifications, I’ll suggest them."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "Can you tell me: what keywords should I include for a UI/UX designer?",
+    "answer": "Include terms like user research, wireframing, prototyping, Figma, Adobe XD, usability testing."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "Can you tell me: how much experience is needed for a senior engineer?",
+    "answer": "Typically 5–7 years of relevant experience with leadership and architectural exposure."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "Help me understand this: Can the bot give me spoken replies?",
+    "answer": "Yes, using Text-to-Speech, the bot can deliver spoken responses."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "How can I improve my LinkedIn profile?",
+    "answer": "Add a professional headline, detailed work descriptions, quantify achievements, and list certifications."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "I want to know: how to learn cloud computing?",
+    "answer": "Start with basic cloud concepts, then choose a provider like AWS, Azure, or GCP and follow structured courses."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "Which certifications are good for cloud computing? Please explain.",
+    "answer": "Consider AWS Certified Solutions Architect or Google Cloud Associate Engineer."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "Help me understand this: Can I get feedback on my LinkedIn screenshot?",
+    "answer": "Yes, upload it and get insights on strengths, missing sections, and improvements."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "Help me understand this: Where can I learn Python for free?",
+    "answer": "Use freeCodeCamp, Coursera free trials, or YouTube channels like CS Dojo."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "I’m good at HTML, CSS, and JavaScript. What roles should I target? Please explain.",
+    "answer": "Frontend Developer, Web Designer, or Junior UI Engineer."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "Help me understand this: What are some career paths for a software engineer?",
+    "answer": "You can grow into roles like Senior Developer, Team Lead, Architect, or transition to Product Manager or Engineering Manager."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "How can I improve my LinkedIn profile? Please explain.",
+    "answer": "Add a professional headline, detailed work descriptions, quantify achievements, and list certifications."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "I want to know: is 2 years of experience enough for a mid-level role?",
+    "answer": "Yes, in some startups or fast-growth companies, 2 years can be considered mid-level."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "What keywords should I include for a UI/UX designer?",
+    "answer": "Include terms like user research, wireframing, prototyping, Figma, Adobe XD, usability testing."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "What are trending skills in tech? Please explain.",
+    "answer": "AI/ML, cloud computing, cybersecurity, and DevOps are among the most in-demand skills."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "Can you suggest skills based on my past queries?",
+    "answer": "Yes, I’ll analyze your past activity and provide tailored suggestions."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "Can you tell me: what keywords should I include for a UI/UX designer?",
+    "answer": "Include terms like user research, wireframing, prototyping, Figma, Adobe XD, usability testing."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "Can I talk to the bot about my career? Please explain.",
+    "answer": "Yes, you can ask questions using voice and the bot will respond via speech."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "I want to know: can you remember my career goals?",
+    "answer": "Yes, with user login enabled, I can track your goals and progress over time."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "Who earns more, software engineers or designers? Please explain.",
+    "answer": "On average, software engineers earn more, but top-tier designers are also highly paid."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "What tools does a backend developer use?",
+    "answer": "They typically use Node.js, Python, Java, databases like PostgreSQL, and tools like Docker."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "I want to know: what is the best way to learn data structures?",
+    "answer": "Use visual tools like VisuAlgo, read 'Cracking the Coding Interview', and practice on LeetCode."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "Can you tell me: what tools should a data scientist know?",
+    "answer": "Python, R, SQL, Jupyter, TensorFlow, Scikit-learn, and Tableau."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "Help me understand this: How can I improve my LinkedIn profile?",
+    "answer": "Add a professional headline, detailed work descriptions, quantify achievements, and list certifications."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "Can I get feedback on my LinkedIn screenshot?",
+    "answer": "Yes, upload it and get insights on strengths, missing sections, and improvements."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "Compare data analyst and data scientist roles.",
+    "answer": "Data analysts focus on reporting; data scientists build models and derive insights."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "I want to know: who earns more, software engineers or designers?",
+    "answer": "On average, software engineers earn more, but top-tier designers are also highly paid."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "Can you tell me: can I talk to the bot about my career?",
+    "answer": "Yes, you can ask questions using voice and the bot will respond via speech."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "Help me understand this: How much experience is needed for a senior engineer?",
+    "answer": "Typically 5–7 years of relevant experience with leadership and architectural exposure."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "What are the best courses for learning UI/UX design? Please explain.",
+    "answer": "Try 'Google UX Design' on Coursera or freeCodeCamp's design curriculum."
+  },
+  {
+    "category": "Company Insights",
+    "question": "What does a product manager do at Amazon? Please explain.",
+    "answer": "Defines product vision, works with engineering teams, and ensures delivery on customer-focused goals."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "Help me understand this: What is the best way to learn data structures?",
+    "answer": "Use visual tools like VisuAlgo, read 'Cracking the Coding Interview', and practice on LeetCode."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "Can you tell me: can the bot give me spoken replies?",
+    "answer": "Yes, using Text-to-Speech, the bot can deliver spoken responses."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "How much experience is needed for a senior engineer? Please explain.",
+    "answer": "Typically 5–7 years of relevant experience with leadership and architectural exposure."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "I want to know: what is the best way to learn data structures?",
+    "answer": "Use visual tools like VisuAlgo, read 'Cracking the Coding Interview', and practice on LeetCode."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "I want to know: how to learn cloud computing?",
+    "answer": "Start with basic cloud concepts, then choose a provider like AWS, Azure, or GCP and follow structured courses."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "I want to know: what are the best courses for learning UI/UX design?",
+    "answer": "Try 'Google UX Design' on Coursera or freeCodeCamp's design curriculum."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "Can I get feedback on my LinkedIn screenshot?",
+    "answer": "Yes, upload it and get insights on strengths, missing sections, and improvements."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "Compare data analyst and data scientist roles.",
+    "answer": "Data analysts focus on reporting; data scientists build models and derive insights."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "Compare data analyst and data scientist roles. Please explain.",
+    "answer": "Data analysts focus on reporting; data scientists build models and derive insights."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "What is the best way to learn data structures?",
+    "answer": "Use visual tools like VisuAlgo, read 'Cracking the Coding Interview', and practice on LeetCode."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "What is the best way to learn data structures? Please explain.",
+    "answer": "Use visual tools like VisuAlgo, read 'Cracking the Coding Interview', and practice on LeetCode."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "Who earns more, software engineers or designers? Please explain.",
+    "answer": "On average, software engineers earn more, but top-tier designers are also highly paid."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "Can you tell me: can you remember my career goals?",
+    "answer": "Yes, with user login enabled, I can track your goals and progress over time."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "Can you tell me: what does a DevOps engineer do?",
+    "answer": "A DevOps engineer automates and streamlines software delivery and infrastructure updates."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "Can you remember my career goals?",
+    "answer": "Yes, with user login enabled, I can track your goals and progress over time."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "Is 2 years of experience enough for a mid-level role? Please explain.",
+    "answer": "Yes, in some startups or fast-growth companies, 2 years can be considered mid-level."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "Can you tell me: how much experience is needed for a senior engineer?",
+    "answer": "Typically 5–7 years of relevant experience with leadership and architectural exposure."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "Can I talk to the bot about my career? Please explain.",
+    "answer": "Yes, you can ask questions using voice and the bot will respond via speech."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "I want to know: which certifications are good for cloud computing?",
+    "answer": "Consider AWS Certified Solutions Architect or Google Cloud Associate Engineer."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "What tools should a data scientist know? Please explain.",
+    "answer": "Python, R, SQL, Jupyter, TensorFlow, Scikit-learn, and Tableau."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "Help me understand this: I know Python, SQL, and Excel. What job suits me?",
+    "answer": "You're a good fit for Data Analyst, Business Analyst, or Entry-Level Data Scientist."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "Compare data analyst and data scientist roles.",
+    "answer": "Data analysts focus on reporting; data scientists build models and derive insights."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "What tools should a data scientist know?",
+    "answer": "Python, R, SQL, Jupyter, TensorFlow, Scikit-learn, and Tableau."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "I want to know: what tools should a data scientist know?",
+    "answer": "Python, R, SQL, Jupyter, TensorFlow, Scikit-learn, and Tableau."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "Which certifications are good for cloud computing? Please explain.",
+    "answer": "Consider AWS Certified Solutions Architect or Google Cloud Associate Engineer."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "Help me understand this: I know Python, SQL, and Excel. What job suits me?",
+    "answer": "You're a good fit for Data Analyst, Business Analyst, or Entry-Level Data Scientist."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "Compare data analyst and data scientist roles. Please explain.",
+    "answer": "Data analysts focus on reporting; data scientists build models and derive insights."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "Can you tell me: is 2 years of experience enough for a mid-level role?",
+    "answer": "Yes, in some startups or fast-growth companies, 2 years can be considered mid-level."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "What are some career paths for a software engineer? Please explain.",
+    "answer": "You can grow into roles like Senior Developer, Team Lead, Architect, or transition to Product Manager or Engineering Manager."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "I want to know: where can I learn Python for free?",
+    "answer": "Use freeCodeCamp, Coursera free trials, or YouTube channels like CS Dojo."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "I want to know: what tools should a data scientist know?",
+    "answer": "Python, R, SQL, Jupyter, TensorFlow, Scikit-learn, and Tableau."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "Can you tell me: is my LinkedIn profile strong?",
+    "answer": "Let's analyze the image. If you're missing achievements or certifications, I’ll suggest them."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "Can you tell me: which certifications are good for cloud computing?",
+    "answer": "Consider AWS Certified Solutions Architect or Google Cloud Associate Engineer."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "How to learn cloud computing? Please explain.",
+    "answer": "Start with basic cloud concepts, then choose a provider like AWS, Azure, or GCP and follow structured courses."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "I want to know: how to learn cloud computing?",
+    "answer": "Start with basic cloud concepts, then choose a provider like AWS, Azure, or GCP and follow structured courses."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "I want to know: how much experience is needed for a senior engineer?",
+    "answer": "Typically 5–7 years of relevant experience with leadership and architectural exposure."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "I want to know: what does a DevOps engineer do?",
+    "answer": "A DevOps engineer automates and streamlines software delivery and infrastructure updates."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "What is the best way to learn data structures?",
+    "answer": "Use visual tools like VisuAlgo, read 'Cracking the Coding Interview', and practice on LeetCode."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "I want to know: can I talk to the bot about my career?",
+    "answer": "Yes, you can ask questions using voice and the bot will respond via speech."
+  },
+  {
+    "category": "Company Insights",
+    "question": "What does a product manager do at Amazon?",
+    "answer": "Defines product vision, works with engineering teams, and ensures delivery on customer-focused goals."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "What are trending skills in tech?",
+    "answer": "AI/ML, cloud computing, cybersecurity, and DevOps are among the most in-demand skills."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "Can you tell me: who earns more, software engineers or designers?",
+    "answer": "On average, software engineers earn more, but top-tier designers are also highly paid."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "Help me understand this: Can I get feedback on my LinkedIn screenshot?",
+    "answer": "Yes, upload it and get insights on strengths, missing sections, and improvements."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "What are the best courses for learning UI/UX design?",
+    "answer": "Try 'Google UX Design' on Coursera or freeCodeCamp's design curriculum."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "Help me understand this: I know Python, SQL, and Excel. What job suits me?",
+    "answer": "You're a good fit for Data Analyst, Business Analyst, or Entry-Level Data Scientist."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "Help me understand this: Is my LinkedIn profile strong?",
+    "answer": "Let's analyze the image. If you're missing achievements or certifications, I’ll suggest them."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "Can you remember my career goals?",
+    "answer": "Yes, with user login enabled, I can track your goals and progress over time."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "Who earns more, software engineers or designers? Please explain.",
+    "answer": "On average, software engineers earn more, but top-tier designers are also highly paid."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "Help me understand this: What are some career paths for a software engineer?",
+    "answer": "You can grow into roles like Senior Developer, Team Lead, Architect, or transition to Product Manager or Engineering Manager."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "Which certifications are good for cloud computing? Please explain.",
+    "answer": "Consider AWS Certified Solutions Architect or Google Cloud Associate Engineer."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "Can you tell me: can the bot give me spoken replies?",
+    "answer": "Yes, using Text-to-Speech, the bot can deliver spoken responses."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "I’m good at HTML, CSS, and JavaScript. What roles should I target?",
+    "answer": "Frontend Developer, Web Designer, or Junior UI Engineer."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "Compare data analyst and data scientist roles. Please explain.",
+    "answer": "Data analysts focus on reporting; data scientists build models and derive insights."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "Can you tell me: what is the best way to learn data structures?",
+    "answer": "Use visual tools like VisuAlgo, read 'Cracking the Coding Interview', and practice on LeetCode."
+  },
+  {
+    "category": "Company Insights",
+    "question": "What is it like working at Google as a SWE?",
+    "answer": "You’ll work on scalable systems, get great perks, and collaborate with top engineers."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "How much experience is needed for a senior engineer?",
+    "answer": "Typically 5–7 years of relevant experience with leadership and architectural exposure."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "Help me understand this: Where can I learn Python for free?",
+    "answer": "Use freeCodeCamp, Coursera free trials, or YouTube channels like CS Dojo."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "Can you tell me: is my LinkedIn profile strong?",
+    "answer": "Let's analyze the image. If you're missing achievements or certifications, I’ll suggest them."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "What are some career paths for a software engineer? Please explain.",
+    "answer": "You can grow into roles like Senior Developer, Team Lead, Architect, or transition to Product Manager or Engineering Manager."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "How can I improve my LinkedIn profile? Please explain.",
+    "answer": "Add a professional headline, detailed work descriptions, quantify achievements, and list certifications."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "What does a DevOps engineer do?",
+    "answer": "A DevOps engineer automates and streamlines software delivery and infrastructure updates."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "I want to know: can you remember my career goals?",
+    "answer": "Yes, with user login enabled, I can track your goals and progress over time."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "Can you tell me: can I get feedback on my LinkedIn screenshot?",
+    "answer": "Yes, upload it and get insights on strengths, missing sections, and improvements."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "Where can I learn Python for free? Please explain.",
+    "answer": "Use freeCodeCamp, Coursera free trials, or YouTube channels like CS Dojo."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "Help me understand this: Which certifications are good for cloud computing?",
+    "answer": "Consider AWS Certified Solutions Architect or Google Cloud Associate Engineer."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "Help me understand this: Can I get feedback on my LinkedIn screenshot?",
+    "answer": "Yes, upload it and get insights on strengths, missing sections, and improvements."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "Who earns more, software engineers or designers? Please explain.",
+    "answer": "On average, software engineers earn more, but top-tier designers are also highly paid."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "I want to know: what is the best way to learn data structures?",
+    "answer": "Use visual tools like VisuAlgo, read 'Cracking the Coding Interview', and practice on LeetCode."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "I want to know: is 2 years of experience enough for a mid-level role?",
+    "answer": "Yes, in some startups or fast-growth companies, 2 years can be considered mid-level."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "Can you tell me: how to learn cloud computing?",
+    "answer": "Start with basic cloud concepts, then choose a provider like AWS, Azure, or GCP and follow structured courses."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "Is 2 years of experience enough for a mid-level role? Please explain.",
+    "answer": "Yes, in some startups or fast-growth companies, 2 years can be considered mid-level."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "I want to know: i know Python, SQL, and Excel. What job suits me?",
+    "answer": "You're a good fit for Data Analyst, Business Analyst, or Entry-Level Data Scientist."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "Can you tell me: what is the best way to learn data structures?",
+    "answer": "Use visual tools like VisuAlgo, read 'Cracking the Coding Interview', and practice on LeetCode."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "Help me understand this: Compare data analyst and data scientist roles.",
+    "answer": "Data analysts focus on reporting; data scientists build models and derive insights."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "Help me understand this: What does a DevOps engineer do?",
+    "answer": "A DevOps engineer automates and streamlines software delivery and infrastructure updates."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "Can you tell me: can you suggest skills based on my past queries?",
+    "answer": "Yes, I’ll analyze your past activity and provide tailored suggestions."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "How can I improve my LinkedIn profile? Please explain.",
+    "answer": "Add a professional headline, detailed work descriptions, quantify achievements, and list certifications."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "Can you tell me: how much experience is needed for a senior engineer?",
+    "answer": "Typically 5–7 years of relevant experience with leadership and architectural exposure."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "What are trending skills in tech? Please explain.",
+    "answer": "AI/ML, cloud computing, cybersecurity, and DevOps are among the most in-demand skills."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "Can you suggest skills based on my past queries?",
+    "answer": "Yes, I’ll analyze your past activity and provide tailored suggestions."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "How to switch from frontend developer to product manager? Please explain.",
+    "answer": "Learn product management fundamentals, work closely with PMs, and consider taking a short certification course in product management."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "What are some career paths for a software engineer?",
+    "answer": "You can grow into roles like Senior Developer, Team Lead, Architect, or transition to Product Manager or Engineering Manager."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "What skills are needed for a data analyst?",
+    "answer": "A data analyst needs skills in SQL, Excel, Python, data visualization tools like Tableau or Power BI, and statistics."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "How to learn cloud computing?",
+    "answer": "Start with basic cloud concepts, then choose a provider like AWS, Azure, or GCP and follow structured courses."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "Can I get feedback on my LinkedIn screenshot? Please explain.",
+    "answer": "Yes, upload it and get insights on strengths, missing sections, and improvements."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "Can you remember my career goals? Please explain.",
+    "answer": "Yes, with user login enabled, I can track your goals and progress over time."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "Help me understand this: Can I talk to the bot about my career?",
+    "answer": "Yes, you can ask questions using voice and the bot will respond via speech."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "I want to know: what tools should a data scientist know?",
+    "answer": "Python, R, SQL, Jupyter, TensorFlow, Scikit-learn, and Tableau."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "Help me understand this: What does a DevOps engineer do?",
+    "answer": "A DevOps engineer automates and streamlines software delivery and infrastructure updates."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "Can the bot give me spoken replies?",
+    "answer": "Yes, using Text-to-Speech, the bot can deliver spoken responses."
+  },
+  {
+    "category": "Company Insights",
+    "question": "Can you tell me: what does a product manager do at Amazon?",
+    "answer": "Defines product vision, works with engineering teams, and ensures delivery on customer-focused goals."
+  },
+  {
+    "category": "Company Insights",
+    "question": "What does a product manager do at Amazon?",
+    "answer": "Defines product vision, works with engineering teams, and ensures delivery on customer-focused goals."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "Can you tell me: can I talk to the bot about my career?",
+    "answer": "Yes, you can ask questions using voice and the bot will respond via speech."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "Help me understand this: What keywords should I include for a UI/UX designer?",
+    "answer": "Include terms like user research, wireframing, prototyping, Figma, Adobe XD, usability testing."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "Help me understand this: What tools should a data scientist know?",
+    "answer": "Python, R, SQL, Jupyter, TensorFlow, Scikit-learn, and Tableau."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "I want to know: i know Python, SQL, and Excel. What job suits me?",
+    "answer": "You're a good fit for Data Analyst, Business Analyst, or Entry-Level Data Scientist."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "Can you tell me: compare data analyst and data scientist roles.",
+    "answer": "Data analysts focus on reporting; data scientists build models and derive insights."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "Help me understand this: What is the best way to learn data structures?",
+    "answer": "Use visual tools like VisuAlgo, read 'Cracking the Coding Interview', and practice on LeetCode."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "I want to know: how much experience is needed for a senior engineer?",
+    "answer": "Typically 5–7 years of relevant experience with leadership and architectural exposure."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "I want to know: i’m good at HTML, CSS, and JavaScript. What roles should I target?",
+    "answer": "Frontend Developer, Web Designer, or Junior UI Engineer."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "I want to know: can you suggest skills based on my past queries?",
+    "answer": "Yes, I’ll analyze your past activity and provide tailored suggestions."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "Can you tell me: can you remember my career goals?",
+    "answer": "Yes, with user login enabled, I can track your goals and progress over time."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "Can the bot give me spoken replies? Please explain.",
+    "answer": "Yes, using Text-to-Speech, the bot can deliver spoken responses."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "Help me understand this: What are trending skills in tech?",
+    "answer": "AI/ML, cloud computing, cybersecurity, and DevOps are among the most in-demand skills."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "Can you tell me: where can I learn Python for free?",
+    "answer": "Use freeCodeCamp, Coursera free trials, or YouTube channels like CS Dojo."
+  },
+  {
+    "category": "Company Insights",
+    "question": "Help me understand this: What does a product manager do at Amazon?",
+    "answer": "Defines product vision, works with engineering teams, and ensures delivery on customer-focused goals."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "Can you tell me: how can I improve my LinkedIn profile?",
+    "answer": "Add a professional headline, detailed work descriptions, quantify achievements, and list certifications."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "Help me understand this: Which certifications are good for cloud computing?",
+    "answer": "Consider AWS Certified Solutions Architect or Google Cloud Associate Engineer."
+  },
+  {
+    "category": "Company Insights",
+    "question": "Help me understand this: What is it like working at Google as a SWE?",
+    "answer": "You’ll work on scalable systems, get great perks, and collaborate with top engineers."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "I want to know: what keywords should I include for a UI/UX designer?",
+    "answer": "Include terms like user research, wireframing, prototyping, Figma, Adobe XD, usability testing."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "What skills are needed for a data analyst?",
+    "answer": "A data analyst needs skills in SQL, Excel, Python, data visualization tools like Tableau or Power BI, and statistics."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "Compare data analyst and data scientist roles. Please explain.",
+    "answer": "Data analysts focus on reporting; data scientists build models and derive insights."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "Can you tell me: is my LinkedIn profile strong?",
+    "answer": "Let's analyze the image. If you're missing achievements or certifications, I’ll suggest them."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "Help me understand this: What keywords should I include for a UI/UX designer?",
+    "answer": "Include terms like user research, wireframing, prototyping, Figma, Adobe XD, usability testing."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "How to switch from frontend developer to product manager? Please explain.",
+    "answer": "Learn product management fundamentals, work closely with PMs, and consider taking a short certification course in product management."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "What keywords should I include for a UI/UX designer?",
+    "answer": "Include terms like user research, wireframing, prototyping, Figma, Adobe XD, usability testing."
+  },
+  {
+    "category": "Company Insights",
+    "question": "Help me understand this: What is it like working at Google as a SWE?",
+    "answer": "You’ll work on scalable systems, get great perks, and collaborate with top engineers."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "What tools should a data scientist know? Please explain.",
+    "answer": "Python, R, SQL, Jupyter, TensorFlow, Scikit-learn, and Tableau."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "How to switch from frontend developer to product manager? Please explain.",
+    "answer": "Learn product management fundamentals, work closely with PMs, and consider taking a short certification course in product management."
+  },
+  {
+    "category": "Company Insights",
+    "question": "Help me understand this: What is it like working at Google as a SWE?",
+    "answer": "You’ll work on scalable systems, get great perks, and collaborate with top engineers."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "Can you tell me: can you suggest skills based on my past queries?",
+    "answer": "Yes, I’ll analyze your past activity and provide tailored suggestions."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "Help me understand this: I know Python, SQL, and Excel. What job suits me?",
+    "answer": "You're a good fit for Data Analyst, Business Analyst, or Entry-Level Data Scientist."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "Can you tell me: can I talk to the bot about my career?",
+    "answer": "Yes, you can ask questions using voice and the bot will respond via speech."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "Help me understand this: How can I improve my LinkedIn profile?",
+    "answer": "Add a professional headline, detailed work descriptions, quantify achievements, and list certifications."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "Can I get feedback on my LinkedIn screenshot?",
+    "answer": "Yes, upload it and get insights on strengths, missing sections, and improvements."
+  },
+  {
+    "category": "Company Insights",
+    "question": "Can you tell me: what is it like working at Google as a SWE?",
+    "answer": "You’ll work on scalable systems, get great perks, and collaborate with top engineers."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "Can the bot give me spoken replies? Please explain.",
+    "answer": "Yes, using Text-to-Speech, the bot can deliver spoken responses."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "Can you tell me: how to learn cloud computing?",
+    "answer": "Start with basic cloud concepts, then choose a provider like AWS, Azure, or GCP and follow structured courses."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "What are some career paths for a software engineer?",
+    "answer": "You can grow into roles like Senior Developer, Team Lead, Architect, or transition to Product Manager or Engineering Manager."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "I want to know: can the bot give me spoken replies?",
+    "answer": "Yes, using Text-to-Speech, the bot can deliver spoken responses."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "What does a DevOps engineer do?",
+    "answer": "A DevOps engineer automates and streamlines software delivery and infrastructure updates."
+  },
+  {
+    "category": "Company Insights",
+    "question": "What does a product manager do at Amazon? Please explain.",
+    "answer": "Defines product vision, works with engineering teams, and ensures delivery on customer-focused goals."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "Is 2 years of experience enough for a mid-level role? Please explain.",
+    "answer": "Yes, in some startups or fast-growth companies, 2 years can be considered mid-level."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "Can you tell me: how much experience is needed for a senior engineer?",
+    "answer": "Typically 5–7 years of relevant experience with leadership and architectural exposure."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "How to learn cloud computing? Please explain.",
+    "answer": "Start with basic cloud concepts, then choose a provider like AWS, Azure, or GCP and follow structured courses."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "Help me understand this: I know Python, SQL, and Excel. What job suits me?",
+    "answer": "You're a good fit for Data Analyst, Business Analyst, or Entry-Level Data Scientist."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "Help me understand this: What are some career paths for a software engineer?",
+    "answer": "You can grow into roles like Senior Developer, Team Lead, Architect, or transition to Product Manager or Engineering Manager."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "How can I improve my LinkedIn profile?",
+    "answer": "Add a professional headline, detailed work descriptions, quantify achievements, and list certifications."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "I want to know: can you remember my career goals?",
+    "answer": "Yes, with user login enabled, I can track your goals and progress over time."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "Help me understand this: I’m good at HTML, CSS, and JavaScript. What roles should I target?",
+    "answer": "Frontend Developer, Web Designer, or Junior UI Engineer."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "Can you tell me: how to learn cloud computing?",
+    "answer": "Start with basic cloud concepts, then choose a provider like AWS, Azure, or GCP and follow structured courses."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "What tools does a backend developer use?",
+    "answer": "They typically use Node.js, Python, Java, databases like PostgreSQL, and tools like Docker."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "What skills are needed for a data analyst? Please explain.",
+    "answer": "A data analyst needs skills in SQL, Excel, Python, data visualization tools like Tableau or Power BI, and statistics."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "Can you tell me: what tools should a data scientist know?",
+    "answer": "Python, R, SQL, Jupyter, TensorFlow, Scikit-learn, and Tableau."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "Help me understand this: How much experience is needed for a senior engineer?",
+    "answer": "Typically 5–7 years of relevant experience with leadership and architectural exposure."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "I’m good at HTML, CSS, and JavaScript. What roles should I target?",
+    "answer": "Frontend Developer, Web Designer, or Junior UI Engineer."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "What are the best courses for learning UI/UX design? Please explain.",
+    "answer": "Try 'Google UX Design' on Coursera or freeCodeCamp's design curriculum."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "Help me understand this: What tools does a backend developer use?",
+    "answer": "They typically use Node.js, Python, Java, databases like PostgreSQL, and tools like Docker."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "Can you remember my career goals? Please explain.",
+    "answer": "Yes, with user login enabled, I can track your goals and progress over time."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "What are the best courses for learning UI/UX design? Please explain.",
+    "answer": "Try 'Google UX Design' on Coursera or freeCodeCamp's design curriculum."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "Help me understand this: What tools should a data scientist know?",
+    "answer": "Python, R, SQL, Jupyter, TensorFlow, Scikit-learn, and Tableau."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "Can I get feedback on my LinkedIn screenshot? Please explain.",
+    "answer": "Yes, upload it and get insights on strengths, missing sections, and improvements."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "Can you tell me: where can I learn Python for free?",
+    "answer": "Use freeCodeCamp, Coursera free trials, or YouTube channels like CS Dojo."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "Can you tell me: what are some career paths for a software engineer?",
+    "answer": "You can grow into roles like Senior Developer, Team Lead, Architect, or transition to Product Manager or Engineering Manager."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "I want to know: how much experience is needed for a senior engineer?",
+    "answer": "Typically 5–7 years of relevant experience with leadership and architectural exposure."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "Who earns more, software engineers or designers? Please explain.",
+    "answer": "On average, software engineers earn more, but top-tier designers are also highly paid."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "Can you suggest skills based on my past queries? Please explain.",
+    "answer": "Yes, I’ll analyze your past activity and provide tailored suggestions."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "Help me understand this: How much experience is needed for a senior engineer?",
+    "answer": "Typically 5–7 years of relevant experience with leadership and architectural exposure."
+  },
+  {
+    "category": "Company Insights",
+    "question": "What is it like working at Google as a SWE? Please explain.",
+    "answer": "You’ll work on scalable systems, get great perks, and collaborate with top engineers."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "I want to know: how can I improve my LinkedIn profile?",
+    "answer": "Add a professional headline, detailed work descriptions, quantify achievements, and list certifications."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "I want to know: how to switch from frontend developer to product manager?",
+    "answer": "Learn product management fundamentals, work closely with PMs, and consider taking a short certification course in product management."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "What are trending skills in tech? Please explain.",
+    "answer": "AI/ML, cloud computing, cybersecurity, and DevOps are among the most in-demand skills."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "Which certifications are good for cloud computing?",
+    "answer": "Consider AWS Certified Solutions Architect or Google Cloud Associate Engineer."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "I want to know: what are trending skills in tech?",
+    "answer": "AI/ML, cloud computing, cybersecurity, and DevOps are among the most in-demand skills."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "I want to know: can I talk to the bot about my career?",
+    "answer": "Yes, you can ask questions using voice and the bot will respond via speech."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "Help me understand this: What keywords should I include for a UI/UX designer?",
+    "answer": "Include terms like user research, wireframing, prototyping, Figma, Adobe XD, usability testing."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "Help me understand this: What skills are needed for a data analyst?",
+    "answer": "A data analyst needs skills in SQL, Excel, Python, data visualization tools like Tableau or Power BI, and statistics."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "I want to know: how can I improve my LinkedIn profile?",
+    "answer": "Add a professional headline, detailed work descriptions, quantify achievements, and list certifications."
+  },
+  {
+    "category": "Company Insights",
+    "question": "What is it like working at Google as a SWE? Please explain.",
+    "answer": "You’ll work on scalable systems, get great perks, and collaborate with top engineers."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "Which certifications are good for cloud computing? Please explain.",
+    "answer": "Consider AWS Certified Solutions Architect or Google Cloud Associate Engineer."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "I want to know: what does a DevOps engineer do?",
+    "answer": "A DevOps engineer automates and streamlines software delivery and infrastructure updates."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "What tools does a backend developer use?",
+    "answer": "They typically use Node.js, Python, Java, databases like PostgreSQL, and tools like Docker."
+  },
+  {
+    "category": "Company Insights",
+    "question": "What is it like working at Google as a SWE?",
+    "answer": "You’ll work on scalable systems, get great perks, and collaborate with top engineers."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "I want to know: how to switch from frontend developer to product manager?",
+    "answer": "Learn product management fundamentals, work closely with PMs, and consider taking a short certification course in product management."
+  },
+  {
+    "category": "Company Insights",
+    "question": "Help me understand this: What is it like working at Google as a SWE?",
+    "answer": "You’ll work on scalable systems, get great perks, and collaborate with top engineers."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "I want to know: i’m good at HTML, CSS, and JavaScript. What roles should I target?",
+    "answer": "Frontend Developer, Web Designer, or Junior UI Engineer."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "Can I get feedback on my LinkedIn screenshot?",
+    "answer": "Yes, upload it and get insights on strengths, missing sections, and improvements."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "What are trending skills in tech? Please explain.",
+    "answer": "AI/ML, cloud computing, cybersecurity, and DevOps are among the most in-demand skills."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "What are trending skills in tech? Please explain.",
+    "answer": "AI/ML, cloud computing, cybersecurity, and DevOps are among the most in-demand skills."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "Can you tell me: i know Python, SQL, and Excel. What job suits me?",
+    "answer": "You're a good fit for Data Analyst, Business Analyst, or Entry-Level Data Scientist."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "I want to know: what are trending skills in tech?",
+    "answer": "AI/ML, cloud computing, cybersecurity, and DevOps are among the most in-demand skills."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "Help me understand this: How can I improve my LinkedIn profile?",
+    "answer": "Add a professional headline, detailed work descriptions, quantify achievements, and list certifications."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "Help me understand this: How to learn cloud computing?",
+    "answer": "Start with basic cloud concepts, then choose a provider like AWS, Azure, or GCP and follow structured courses."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "I want to know: can you remember my career goals?",
+    "answer": "Yes, with user login enabled, I can track your goals and progress over time."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "I want to know: i know Python, SQL, and Excel. What job suits me?",
+    "answer": "You're a good fit for Data Analyst, Business Analyst, or Entry-Level Data Scientist."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "What are the best courses for learning UI/UX design? Please explain.",
+    "answer": "Try 'Google UX Design' on Coursera or freeCodeCamp's design curriculum."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "Help me understand this: How can I improve my LinkedIn profile?",
+    "answer": "Add a professional headline, detailed work descriptions, quantify achievements, and list certifications."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "How to learn cloud computing? Please explain.",
+    "answer": "Start with basic cloud concepts, then choose a provider like AWS, Azure, or GCP and follow structured courses."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "What skills are needed for a data analyst?",
+    "answer": "A data analyst needs skills in SQL, Excel, Python, data visualization tools like Tableau or Power BI, and statistics."
+  },
+  {
+    "category": "Company Insights",
+    "question": "What does a product manager do at Amazon? Please explain.",
+    "answer": "Defines product vision, works with engineering teams, and ensures delivery on customer-focused goals."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "What are the best courses for learning UI/UX design?",
+    "answer": "Try 'Google UX Design' on Coursera or freeCodeCamp's design curriculum."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "I know Python, SQL, and Excel. What job suits me? Please explain.",
+    "answer": "You're a good fit for Data Analyst, Business Analyst, or Entry-Level Data Scientist."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "Can you tell me: is my LinkedIn profile strong?",
+    "answer": "Let's analyze the image. If you're missing achievements or certifications, I’ll suggest them."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "Help me understand this: What keywords should I include for a UI/UX designer?",
+    "answer": "Include terms like user research, wireframing, prototyping, Figma, Adobe XD, usability testing."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "I want to know: what are the best courses for learning UI/UX design?",
+    "answer": "Try 'Google UX Design' on Coursera or freeCodeCamp's design curriculum."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "Help me understand this: How much experience is needed for a senior engineer?",
+    "answer": "Typically 5–7 years of relevant experience with leadership and architectural exposure."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "Help me understand this: How to switch from frontend developer to product manager?",
+    "answer": "Learn product management fundamentals, work closely with PMs, and consider taking a short certification course in product management."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "I know Python, SQL, and Excel. What job suits me? Please explain.",
+    "answer": "You're a good fit for Data Analyst, Business Analyst, or Entry-Level Data Scientist."
+  },
+  {
+    "category": "Company Insights",
+    "question": "Can you tell me: what does a product manager do at Amazon?",
+    "answer": "Defines product vision, works with engineering teams, and ensures delivery on customer-focused goals."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "How to learn cloud computing? Please explain.",
+    "answer": "Start with basic cloud concepts, then choose a provider like AWS, Azure, or GCP and follow structured courses."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "I want to know: can you suggest skills based on my past queries?",
+    "answer": "Yes, I’ll analyze your past activity and provide tailored suggestions."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "Can you tell me: can you suggest skills based on my past queries?",
+    "answer": "Yes, I’ll analyze your past activity and provide tailored suggestions."
+  },
+  {
+    "category": "Company Insights",
+    "question": "Help me understand this: What is it like working at Google as a SWE?",
+    "answer": "You’ll work on scalable systems, get great perks, and collaborate with top engineers."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "What does a DevOps engineer do? Please explain.",
+    "answer": "A DevOps engineer automates and streamlines software delivery and infrastructure updates."
+  },
+  {
+    "category": "Company Insights",
+    "question": "I want to know: what does a product manager do at Amazon?",
+    "answer": "Defines product vision, works with engineering teams, and ensures delivery on customer-focused goals."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "Can you tell me: what does a DevOps engineer do?",
+    "answer": "A DevOps engineer automates and streamlines software delivery and infrastructure updates."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "Help me understand this: Where can I learn Python for free?",
+    "answer": "Use freeCodeCamp, Coursera free trials, or YouTube channels like CS Dojo."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "Can you tell me: what are trending skills in tech?",
+    "answer": "AI/ML, cloud computing, cybersecurity, and DevOps are among the most in-demand skills."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "I want to know: how much experience is needed for a senior engineer?",
+    "answer": "Typically 5–7 years of relevant experience with leadership and architectural exposure."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "Can I talk to the bot about my career? Please explain.",
+    "answer": "Yes, you can ask questions using voice and the bot will respond via speech."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "I want to know: compare data analyst and data scientist roles.",
+    "answer": "Data analysts focus on reporting; data scientists build models and derive insights."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "Help me understand this: Where can I learn Python for free?",
+    "answer": "Use freeCodeCamp, Coursera free trials, or YouTube channels like CS Dojo."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "Can you tell me: can I talk to the bot about my career?",
+    "answer": "Yes, you can ask questions using voice and the bot will respond via speech."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "I want to know: what tools does a backend developer use?",
+    "answer": "They typically use Node.js, Python, Java, databases like PostgreSQL, and tools like Docker."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "Who earns more, software engineers or designers?",
+    "answer": "On average, software engineers earn more, but top-tier designers are also highly paid."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "I want to know: can I talk to the bot about my career?",
+    "answer": "Yes, you can ask questions using voice and the bot will respond via speech."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "Can I talk to the bot about my career? Please explain.",
+    "answer": "Yes, you can ask questions using voice and the bot will respond via speech."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "I’m good at HTML, CSS, and JavaScript. What roles should I target? Please explain.",
+    "answer": "Frontend Developer, Web Designer, or Junior UI Engineer."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "Can I get feedback on my LinkedIn screenshot? Please explain.",
+    "answer": "Yes, upload it and get insights on strengths, missing sections, and improvements."
+  },
+  {
+    "category": "Company Insights",
+    "question": "I want to know: what does a product manager do at Amazon?",
+    "answer": "Defines product vision, works with engineering teams, and ensures delivery on customer-focused goals."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "What tools does a backend developer use?",
+    "answer": "They typically use Node.js, Python, Java, databases like PostgreSQL, and tools like Docker."
+  },
+  {
+    "category": "Company Insights",
+    "question": "What does a product manager do at Amazon?",
+    "answer": "Defines product vision, works with engineering teams, and ensures delivery on customer-focused goals."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "Can I get feedback on my LinkedIn screenshot? Please explain.",
+    "answer": "Yes, upload it and get insights on strengths, missing sections, and improvements."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "I want to know: what skills are needed for a data analyst?",
+    "answer": "A data analyst needs skills in SQL, Excel, Python, data visualization tools like Tableau or Power BI, and statistics."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "Can you tell me: what tools does a backend developer use?",
+    "answer": "They typically use Node.js, Python, Java, databases like PostgreSQL, and tools like Docker."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "Can you tell me: what are some career paths for a software engineer?",
+    "answer": "You can grow into roles like Senior Developer, Team Lead, Architect, or transition to Product Manager or Engineering Manager."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "Help me understand this: Can you remember my career goals?",
+    "answer": "Yes, with user login enabled, I can track your goals and progress over time."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "I want to know: can you suggest skills based on my past queries?",
+    "answer": "Yes, I’ll analyze your past activity and provide tailored suggestions."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "Help me understand this: What is the best way to learn data structures?",
+    "answer": "Use visual tools like VisuAlgo, read 'Cracking the Coding Interview', and practice on LeetCode."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "Can you tell me: i know Python, SQL, and Excel. What job suits me?",
+    "answer": "You're a good fit for Data Analyst, Business Analyst, or Entry-Level Data Scientist."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "What tools does a backend developer use? Please explain.",
+    "answer": "They typically use Node.js, Python, Java, databases like PostgreSQL, and tools like Docker."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "Help me understand this: Can I talk to the bot about my career?",
+    "answer": "Yes, you can ask questions using voice and the bot will respond via speech."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "What does a DevOps engineer do?",
+    "answer": "A DevOps engineer automates and streamlines software delivery and infrastructure updates."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "What skills are needed for a data analyst?",
+    "answer": "A data analyst needs skills in SQL, Excel, Python, data visualization tools like Tableau or Power BI, and statistics."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "Can you tell me: which certifications are good for cloud computing?",
+    "answer": "Consider AWS Certified Solutions Architect or Google Cloud Associate Engineer."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "Can you tell me: can I get feedback on my LinkedIn screenshot?",
+    "answer": "Yes, upload it and get insights on strengths, missing sections, and improvements."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "Compare data analyst and data scientist roles. Please explain.",
+    "answer": "Data analysts focus on reporting; data scientists build models and derive insights."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "Is my LinkedIn profile strong?",
+    "answer": "Let's analyze the image. If you're missing achievements or certifications, I’ll suggest them."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "Can you suggest skills based on my past queries? Please explain.",
+    "answer": "Yes, I’ll analyze your past activity and provide tailored suggestions."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "What are the best courses for learning UI/UX design? Please explain.",
+    "answer": "Try 'Google UX Design' on Coursera or freeCodeCamp's design curriculum."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "Where can I learn Python for free?",
+    "answer": "Use freeCodeCamp, Coursera free trials, or YouTube channels like CS Dojo."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "Who earns more, software engineers or designers?",
+    "answer": "On average, software engineers earn more, but top-tier designers are also highly paid."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "Can you tell me: what does a DevOps engineer do?",
+    "answer": "A DevOps engineer automates and streamlines software delivery and infrastructure updates."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "Can you tell me: is my LinkedIn profile strong?",
+    "answer": "Let's analyze the image. If you're missing achievements or certifications, I’ll suggest them."
+  },
+  {
+    "category": "Company Insights",
+    "question": "I want to know: what is it like working at Google as a SWE?",
+    "answer": "You’ll work on scalable systems, get great perks, and collaborate with top engineers."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "Help me understand this: Compare data analyst and data scientist roles.",
+    "answer": "Data analysts focus on reporting; data scientists build models and derive insights."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "Can I talk to the bot about my career? Please explain.",
+    "answer": "Yes, you can ask questions using voice and the bot will respond via speech."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "Can you suggest skills based on my past queries? Please explain.",
+    "answer": "Yes, I’ll analyze your past activity and provide tailored suggestions."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "I’m good at HTML, CSS, and JavaScript. What roles should I target? Please explain.",
+    "answer": "Frontend Developer, Web Designer, or Junior UI Engineer."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "Help me understand this: How to switch from frontend developer to product manager?",
+    "answer": "Learn product management fundamentals, work closely with PMs, and consider taking a short certification course in product management."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "What are the best courses for learning UI/UX design?",
+    "answer": "Try 'Google UX Design' on Coursera or freeCodeCamp's design curriculum."
+  },
+  {
+    "category": "Company Insights",
+    "question": "What is it like working at Google as a SWE? Please explain.",
+    "answer": "You’ll work on scalable systems, get great perks, and collaborate with top engineers."
+  },
+  {
+    "category": "Company Insights",
+    "question": "I want to know: what is it like working at Google as a SWE?",
+    "answer": "You’ll work on scalable systems, get great perks, and collaborate with top engineers."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "Where can I learn Python for free?",
+    "answer": "Use freeCodeCamp, Coursera free trials, or YouTube channels like CS Dojo."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "Can I talk to the bot about my career? Please explain.",
+    "answer": "Yes, you can ask questions using voice and the bot will respond via speech."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "Can you tell me: can I get feedback on my LinkedIn screenshot?",
+    "answer": "Yes, upload it and get insights on strengths, missing sections, and improvements."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "How can I improve my LinkedIn profile?",
+    "answer": "Add a professional headline, detailed work descriptions, quantify achievements, and list certifications."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "I want to know: what are the best courses for learning UI/UX design?",
+    "answer": "Try 'Google UX Design' on Coursera or freeCodeCamp's design curriculum."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "What tools does a backend developer use?",
+    "answer": "They typically use Node.js, Python, Java, databases like PostgreSQL, and tools like Docker."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "Help me understand this: How to switch from frontend developer to product manager?",
+    "answer": "Learn product management fundamentals, work closely with PMs, and consider taking a short certification course in product management."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "Can you tell me: i’m good at HTML, CSS, and JavaScript. What roles should I target?",
+    "answer": "Frontend Developer, Web Designer, or Junior UI Engineer."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "What are trending skills in tech?",
+    "answer": "AI/ML, cloud computing, cybersecurity, and DevOps are among the most in-demand skills."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "Can you tell me: which certifications are good for cloud computing?",
+    "answer": "Consider AWS Certified Solutions Architect or Google Cloud Associate Engineer."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "How can I improve my LinkedIn profile? Please explain.",
+    "answer": "Add a professional headline, detailed work descriptions, quantify achievements, and list certifications."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "What are trending skills in tech?",
+    "answer": "AI/ML, cloud computing, cybersecurity, and DevOps are among the most in-demand skills."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "I want to know: i know Python, SQL, and Excel. What job suits me?",
+    "answer": "You're a good fit for Data Analyst, Business Analyst, or Entry-Level Data Scientist."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "I want to know: what are trending skills in tech?",
+    "answer": "AI/ML, cloud computing, cybersecurity, and DevOps are among the most in-demand skills."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "I want to know: which certifications are good for cloud computing?",
+    "answer": "Consider AWS Certified Solutions Architect or Google Cloud Associate Engineer."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "Help me understand this: Can you suggest skills based on my past queries?",
+    "answer": "Yes, I’ll analyze your past activity and provide tailored suggestions."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "Help me understand this: Who earns more, software engineers or designers?",
+    "answer": "On average, software engineers earn more, but top-tier designers are also highly paid."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "What is the best way to learn data structures?",
+    "answer": "Use visual tools like VisuAlgo, read 'Cracking the Coding Interview', and practice on LeetCode."
+  },
+  {
+    "category": "Company Insights",
+    "question": "Help me understand this: What is it like working at Google as a SWE?",
+    "answer": "You’ll work on scalable systems, get great perks, and collaborate with top engineers."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "I want to know: compare data analyst and data scientist roles.",
+    "answer": "Data analysts focus on reporting; data scientists build models and derive insights."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "I want to know: what are some career paths for a software engineer?",
+    "answer": "You can grow into roles like Senior Developer, Team Lead, Architect, or transition to Product Manager or Engineering Manager."
+  },
+  {
+    "category": "Company Insights",
+    "question": "I want to know: what does a product manager do at Amazon?",
+    "answer": "Defines product vision, works with engineering teams, and ensures delivery on customer-focused goals."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "Can you tell me: can you remember my career goals?",
+    "answer": "Yes, with user login enabled, I can track your goals and progress over time."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "I want to know: can I talk to the bot about my career?",
+    "answer": "Yes, you can ask questions using voice and the bot will respond via speech."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "Can you tell me: what does a DevOps engineer do?",
+    "answer": "A DevOps engineer automates and streamlines software delivery and infrastructure updates."
+  },
+  {
+    "category": "Company Insights",
+    "question": "I want to know: what does a product manager do at Amazon?",
+    "answer": "Defines product vision, works with engineering teams, and ensures delivery on customer-focused goals."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "What keywords should I include for a UI/UX designer?",
+    "answer": "Include terms like user research, wireframing, prototyping, Figma, Adobe XD, usability testing."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "What are trending skills in tech?",
+    "answer": "AI/ML, cloud computing, cybersecurity, and DevOps are among the most in-demand skills."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "Help me understand this: How to switch from frontend developer to product manager?",
+    "answer": "Learn product management fundamentals, work closely with PMs, and consider taking a short certification course in product management."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "Help me understand this: Is my LinkedIn profile strong?",
+    "answer": "Let's analyze the image. If you're missing achievements or certifications, I’ll suggest them."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "What tools should a data scientist know?",
+    "answer": "Python, R, SQL, Jupyter, TensorFlow, Scikit-learn, and Tableau."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "Can you tell me: what keywords should I include for a UI/UX designer?",
+    "answer": "Include terms like user research, wireframing, prototyping, Figma, Adobe XD, usability testing."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "I want to know: who earns more, software engineers or designers?",
+    "answer": "On average, software engineers earn more, but top-tier designers are also highly paid."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "What are trending skills in tech? Please explain.",
+    "answer": "AI/ML, cloud computing, cybersecurity, and DevOps are among the most in-demand skills."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "I want to know: can the bot give me spoken replies?",
+    "answer": "Yes, using Text-to-Speech, the bot can deliver spoken responses."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "What skills are needed for a data analyst?",
+    "answer": "A data analyst needs skills in SQL, Excel, Python, data visualization tools like Tableau or Power BI, and statistics."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "Help me understand this: I’m good at HTML, CSS, and JavaScript. What roles should I target?",
+    "answer": "Frontend Developer, Web Designer, or Junior UI Engineer."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "I want to know: where can I learn Python for free?",
+    "answer": "Use freeCodeCamp, Coursera free trials, or YouTube channels like CS Dojo."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "I want to know: what are the best courses for learning UI/UX design?",
+    "answer": "Try 'Google UX Design' on Coursera or freeCodeCamp's design curriculum."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "Help me understand this: I’m good at HTML, CSS, and JavaScript. What roles should I target?",
+    "answer": "Frontend Developer, Web Designer, or Junior UI Engineer."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "Compare data analyst and data scientist roles.",
+    "answer": "Data analysts focus on reporting; data scientists build models and derive insights."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "Can you tell me: who earns more, software engineers or designers?",
+    "answer": "On average, software engineers earn more, but top-tier designers are also highly paid."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "Where can I learn Python for free? Please explain.",
+    "answer": "Use freeCodeCamp, Coursera free trials, or YouTube channels like CS Dojo."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "Can you tell me: what are the best courses for learning UI/UX design?",
+    "answer": "Try 'Google UX Design' on Coursera or freeCodeCamp's design curriculum."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "What tools should a data scientist know? Please explain.",
+    "answer": "Python, R, SQL, Jupyter, TensorFlow, Scikit-learn, and Tableau."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "Can you tell me: what are trending skills in tech?",
+    "answer": "AI/ML, cloud computing, cybersecurity, and DevOps are among the most in-demand skills."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "I want to know: what are the best courses for learning UI/UX design?",
+    "answer": "Try 'Google UX Design' on Coursera or freeCodeCamp's design curriculum."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "I want to know: how much experience is needed for a senior engineer?",
+    "answer": "Typically 5–7 years of relevant experience with leadership and architectural exposure."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "Help me understand this: What is the best way to learn data structures?",
+    "answer": "Use visual tools like VisuAlgo, read 'Cracking the Coding Interview', and practice on LeetCode."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "Can you tell me: what tools does a backend developer use?",
+    "answer": "They typically use Node.js, Python, Java, databases like PostgreSQL, and tools like Docker."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "Can you tell me: can the bot give me spoken replies?",
+    "answer": "Yes, using Text-to-Speech, the bot can deliver spoken responses."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "What are the best courses for learning UI/UX design?",
+    "answer": "Try 'Google UX Design' on Coursera or freeCodeCamp's design curriculum."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "Is 2 years of experience enough for a mid-level role? Please explain.",
+    "answer": "Yes, in some startups or fast-growth companies, 2 years can be considered mid-level."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "Can you tell me: i know Python, SQL, and Excel. What job suits me?",
+    "answer": "You're a good fit for Data Analyst, Business Analyst, or Entry-Level Data Scientist."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "What skills are needed for a data analyst?",
+    "answer": "A data analyst needs skills in SQL, Excel, Python, data visualization tools like Tableau or Power BI, and statistics."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "I know Python, SQL, and Excel. What job suits me?",
+    "answer": "You're a good fit for Data Analyst, Business Analyst, or Entry-Level Data Scientist."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "Can you suggest skills based on my past queries?",
+    "answer": "Yes, I’ll analyze your past activity and provide tailored suggestions."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "How can I improve my LinkedIn profile? Please explain.",
+    "answer": "Add a professional headline, detailed work descriptions, quantify achievements, and list certifications."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "Compare data analyst and data scientist roles. Please explain.",
+    "answer": "Data analysts focus on reporting; data scientists build models and derive insights."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "Can the bot give me spoken replies? Please explain.",
+    "answer": "Yes, using Text-to-Speech, the bot can deliver spoken responses."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "What are the best courses for learning UI/UX design?",
+    "answer": "Try 'Google UX Design' on Coursera or freeCodeCamp's design curriculum."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "I want to know: i’m good at HTML, CSS, and JavaScript. What roles should I target?",
+    "answer": "Frontend Developer, Web Designer, or Junior UI Engineer."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "What are some career paths for a software engineer?",
+    "answer": "You can grow into roles like Senior Developer, Team Lead, Architect, or transition to Product Manager or Engineering Manager."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "Help me understand this: What tools does a backend developer use?",
+    "answer": "They typically use Node.js, Python, Java, databases like PostgreSQL, and tools like Docker."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "I’m good at HTML, CSS, and JavaScript. What roles should I target?",
+    "answer": "Frontend Developer, Web Designer, or Junior UI Engineer."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "What is the best way to learn data structures?",
+    "answer": "Use visual tools like VisuAlgo, read 'Cracking the Coding Interview', and practice on LeetCode."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "Can you tell me: how can I improve my LinkedIn profile?",
+    "answer": "Add a professional headline, detailed work descriptions, quantify achievements, and list certifications."
+  },
+  {
+    "category": "Company Insights",
+    "question": "Help me understand this: What is it like working at Google as a SWE?",
+    "answer": "You’ll work on scalable systems, get great perks, and collaborate with top engineers."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "Which certifications are good for cloud computing? Please explain.",
+    "answer": "Consider AWS Certified Solutions Architect or Google Cloud Associate Engineer."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "I want to know: how to switch from frontend developer to product manager?",
+    "answer": "Learn product management fundamentals, work closely with PMs, and consider taking a short certification course in product management."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "Can you remember my career goals?",
+    "answer": "Yes, with user login enabled, I can track your goals and progress over time."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "Help me understand this: What tools does a backend developer use?",
+    "answer": "They typically use Node.js, Python, Java, databases like PostgreSQL, and tools like Docker."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "I want to know: what are some career paths for a software engineer?",
+    "answer": "You can grow into roles like Senior Developer, Team Lead, Architect, or transition to Product Manager or Engineering Manager."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "Can you tell me: can I talk to the bot about my career?",
+    "answer": "Yes, you can ask questions using voice and the bot will respond via speech."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "I want to know: where can I learn Python for free?",
+    "answer": "Use freeCodeCamp, Coursera free trials, or YouTube channels like CS Dojo."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "Can you suggest skills based on my past queries?",
+    "answer": "Yes, I’ll analyze your past activity and provide tailored suggestions."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "What does a DevOps engineer do? Please explain.",
+    "answer": "A DevOps engineer automates and streamlines software delivery and infrastructure updates."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "Is 2 years of experience enough for a mid-level role?",
+    "answer": "Yes, in some startups or fast-growth companies, 2 years can be considered mid-level."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "Can you tell me: how to learn cloud computing?",
+    "answer": "Start with basic cloud concepts, then choose a provider like AWS, Azure, or GCP and follow structured courses."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "I want to know: how much experience is needed for a senior engineer?",
+    "answer": "Typically 5–7 years of relevant experience with leadership and architectural exposure."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "I want to know: which certifications are good for cloud computing?",
+    "answer": "Consider AWS Certified Solutions Architect or Google Cloud Associate Engineer."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "I want to know: can you suggest skills based on my past queries?",
+    "answer": "Yes, I’ll analyze your past activity and provide tailored suggestions."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "Help me understand this: Compare data analyst and data scientist roles.",
+    "answer": "Data analysts focus on reporting; data scientists build models and derive insights."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "Help me understand this: Who earns more, software engineers or designers?",
+    "answer": "On average, software engineers earn more, but top-tier designers are also highly paid."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "Can you tell me: can you remember my career goals?",
+    "answer": "Yes, with user login enabled, I can track your goals and progress over time."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "Can you tell me: can you remember my career goals?",
+    "answer": "Yes, with user login enabled, I can track your goals and progress over time."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "I want to know: what keywords should I include for a UI/UX designer?",
+    "answer": "Include terms like user research, wireframing, prototyping, Figma, Adobe XD, usability testing."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "I want to know: what are some career paths for a software engineer?",
+    "answer": "You can grow into roles like Senior Developer, Team Lead, Architect, or transition to Product Manager or Engineering Manager."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "How to switch from frontend developer to product manager?",
+    "answer": "Learn product management fundamentals, work closely with PMs, and consider taking a short certification course in product management."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "Which certifications are good for cloud computing? Please explain.",
+    "answer": "Consider AWS Certified Solutions Architect or Google Cloud Associate Engineer."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "What are trending skills in tech? Please explain.",
+    "answer": "AI/ML, cloud computing, cybersecurity, and DevOps are among the most in-demand skills."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "I want to know: what keywords should I include for a UI/UX designer?",
+    "answer": "Include terms like user research, wireframing, prototyping, Figma, Adobe XD, usability testing."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "I want to know: how to learn cloud computing?",
+    "answer": "Start with basic cloud concepts, then choose a provider like AWS, Azure, or GCP and follow structured courses."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "I want to know: how to learn cloud computing?",
+    "answer": "Start with basic cloud concepts, then choose a provider like AWS, Azure, or GCP and follow structured courses."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "I want to know: is my LinkedIn profile strong?",
+    "answer": "Let's analyze the image. If you're missing achievements or certifications, I’ll suggest them."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "Can you tell me: can I get feedback on my LinkedIn screenshot?",
+    "answer": "Yes, upload it and get insights on strengths, missing sections, and improvements."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "I want to know: what are the best courses for learning UI/UX design?",
+    "answer": "Try 'Google UX Design' on Coursera or freeCodeCamp's design curriculum."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "Can you tell me: how can I improve my LinkedIn profile?",
+    "answer": "Add a professional headline, detailed work descriptions, quantify achievements, and list certifications."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "I want to know: i know Python, SQL, and Excel. What job suits me?",
+    "answer": "You're a good fit for Data Analyst, Business Analyst, or Entry-Level Data Scientist."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "Can I get feedback on my LinkedIn screenshot? Please explain.",
+    "answer": "Yes, upload it and get insights on strengths, missing sections, and improvements."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "Can you tell me: how can I improve my LinkedIn profile?",
+    "answer": "Add a professional headline, detailed work descriptions, quantify achievements, and list certifications."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "What skills are needed for a data analyst? Please explain.",
+    "answer": "A data analyst needs skills in SQL, Excel, Python, data visualization tools like Tableau or Power BI, and statistics."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "Can the bot give me spoken replies? Please explain.",
+    "answer": "Yes, using Text-to-Speech, the bot can deliver spoken responses."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "Can you tell me: what tools does a backend developer use?",
+    "answer": "They typically use Node.js, Python, Java, databases like PostgreSQL, and tools like Docker."
+  },
+  {
+    "category": "User Profile Integration",
+    "question": "Can you remember my career goals? Please explain.",
+    "answer": "Yes, with user login enabled, I can track your goals and progress over time."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "Help me understand this: What tools does a backend developer use?",
+    "answer": "They typically use Node.js, Python, Java, databases like PostgreSQL, and tools like Docker."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "Where can I learn Python for free?",
+    "answer": "Use freeCodeCamp, Coursera free trials, or YouTube channels like CS Dojo."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "Can you tell me: how much experience is needed for a senior engineer?",
+    "answer": "Typically 5–7 years of relevant experience with leadership and architectural exposure."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "I want to know: i’m good at HTML, CSS, and JavaScript. What roles should I target?",
+    "answer": "Frontend Developer, Web Designer, or Junior UI Engineer."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "I want to know: can I get feedback on my LinkedIn screenshot?",
+    "answer": "Yes, upload it and get insights on strengths, missing sections, and improvements."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "Can you tell me: which certifications are good for cloud computing?",
+    "answer": "Consider AWS Certified Solutions Architect or Google Cloud Associate Engineer."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "Help me understand this: What are trending skills in tech?",
+    "answer": "AI/ML, cloud computing, cybersecurity, and DevOps are among the most in-demand skills."
+  },
+  {
+    "category": "Skill Insights",
+    "question": "I want to know: what skills are needed for a data analyst?",
+    "answer": "A data analyst needs skills in SQL, Excel, Python, data visualization tools like Tableau or Power BI, and statistics."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "What tools does a backend developer use?",
+    "answer": "They typically use Node.js, Python, Java, databases like PostgreSQL, and tools like Docker."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "Can you tell me: what are the best courses for learning UI/UX design?",
+    "answer": "Try 'Google UX Design' on Coursera or freeCodeCamp's design curriculum."
+  },
+  {
+    "category": "Skill Learning Paths",
+    "question": "How to learn cloud computing?",
+    "answer": "Start with basic cloud concepts, then choose a provider like AWS, Azure, or GCP and follow structured courses."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "Can you tell me: how to switch from frontend developer to product manager?",
+    "answer": "Learn product management fundamentals, work closely with PMs, and consider taking a short certification course in product management."
+  },
+  {
+    "category": "Company Insights",
+    "question": "Help me understand this: What does a product manager do at Amazon?",
+    "answer": "Defines product vision, works with engineering teams, and ensures delivery on customer-focused goals."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "Help me understand this: How much experience is needed for a senior engineer?",
+    "answer": "Typically 5–7 years of relevant experience with leadership and architectural exposure."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "I want to know: what does a DevOps engineer do?",
+    "answer": "A DevOps engineer automates and streamlines software delivery and infrastructure updates."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "What tools does a backend developer use?",
+    "answer": "They typically use Node.js, Python, Java, databases like PostgreSQL, and tools like Docker."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "What tools does a backend developer use?",
+    "answer": "They typically use Node.js, Python, Java, databases like PostgreSQL, and tools like Docker."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "Is my LinkedIn profile strong? Please explain.",
+    "answer": "Let's analyze the image. If you're missing achievements or certifications, I’ll suggest them."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "Can you tell me: can I talk to the bot about my career?",
+    "answer": "Yes, you can ask questions using voice and the bot will respond via speech."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "How much experience is needed for a senior engineer?",
+    "answer": "Typically 5–7 years of relevant experience with leadership and architectural exposure."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "Help me understand this: Who earns more, software engineers or designers?",
+    "answer": "On average, software engineers earn more, but top-tier designers are also highly paid."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "I want to know: can I get feedback on my LinkedIn screenshot?",
+    "answer": "Yes, upload it and get insights on strengths, missing sections, and improvements."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "Is 2 years of experience enough for a mid-level role?",
+    "answer": "Yes, in some startups or fast-growth companies, 2 years can be considered mid-level."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "I want to know: how to switch from frontend developer to product manager?",
+    "answer": "Learn product management fundamentals, work closely with PMs, and consider taking a short certification course in product management."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "I’m good at HTML, CSS, and JavaScript. What roles should I target?",
+    "answer": "Frontend Developer, Web Designer, or Junior UI Engineer."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "What are some career paths for a software engineer?",
+    "answer": "You can grow into roles like Senior Developer, Team Lead, Architect, or transition to Product Manager or Engineering Manager."
+  },
+  {
+    "category": "Resume/Profile Feedback",
+    "question": "Help me understand this: How can I improve my LinkedIn profile?",
+    "answer": "Add a professional headline, detailed work descriptions, quantify achievements, and list certifications."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "Can you tell me: how to switch from frontend developer to product manager?",
+    "answer": "Learn product management fundamentals, work closely with PMs, and consider taking a short certification course in product management."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "I want to know: is my LinkedIn profile strong?",
+    "answer": "Let's analyze the image. If you're missing achievements or certifications, I’ll suggest them."
+  },
+  {
+    "category": "Skill Matching",
+    "question": "I want to know: i’m good at HTML, CSS, and JavaScript. What roles should I target?",
+    "answer": "Frontend Developer, Web Designer, or Junior UI Engineer."
+  },
+  {
+    "category": "Course Recommendations",
+    "question": "I want to know: what are the best courses for learning UI/UX design?",
+    "answer": "Try 'Google UX Design' on Coursera or freeCodeCamp's design curriculum."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "I want to know: what tools should a data scientist know?",
+    "answer": "Python, R, SQL, Jupyter, TensorFlow, Scikit-learn, and Tableau."
+  },
+  {
+    "category": "Role Comparison",
+    "question": "Who earns more, software engineers or designers? Please explain.",
+    "answer": "On average, software engineers earn more, but top-tier designers are also highly paid."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "Which certifications are good for cloud computing?",
+    "answer": "Consider AWS Certified Solutions Architect or Google Cloud Associate Engineer."
+  },
+  {
+    "category": "Company Insights",
+    "question": "Help me understand this: What is it like working at Google as a SWE?",
+    "answer": "You’ll work on scalable systems, get great perks, and collaborate with top engineers."
+  },
+  {
+    "category": "Certifications & Tools",
+    "question": "Which certifications are good for cloud computing?",
+    "answer": "Consider AWS Certified Solutions Architect or Google Cloud Associate Engineer."
+  },
+  {
+    "category": "Company Insights",
+    "question": "What does a product manager do at Amazon?",
+    "answer": "Defines product vision, works with engineering teams, and ensures delivery on customer-focused goals."
+  },
+  {
+    "category": "Q&A on Work Experience",
+    "question": "Is 2 years of experience enough for a mid-level role? Please explain.",
+    "answer": "Yes, in some startups or fast-growth companies, 2 years can be considered mid-level."
+  },
+  {
+    "category": "Voice Interaction",
+    "question": "Can I talk to the bot about my career? Please explain.",
+    "answer": "Yes, you can ask questions using voice and the bot will respond via speech."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "Help me understand this: How to switch from frontend developer to product manager?",
+    "answer": "Learn product management fundamentals, work closely with PMs, and consider taking a short certification course in product management."
+  },
+  {
+    "category": "Job Role Explanation",
+    "question": "Help me understand this: What tools does a backend developer use?",
+    "answer": "They typically use Node.js, Python, Java, databases like PostgreSQL, and tools like Docker."
+  },
+  {
+    "category": "Career Guidance",
+    "question": "Help me understand this: How to switch from frontend developer to product manager?",
+    "answer": "Learn product management fundamentals, work closely with PMs, and consider taking a short certification course in product management."
+  },
+  {
+    "category": "Image Understanding",
+    "question": "Is my LinkedIn profile strong?",
+    "answer": "Let's analyze the image. If you're missing achievements or certifications, I’ll suggest them."
+  }
+]
