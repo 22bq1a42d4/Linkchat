@@ -11,8 +11,32 @@ const useFetchUser = () => {
       setLoading(true);
       setError(null);
       
-      const response = await api.get('/api/me');
-      setUser(response.data);
+      // TEMPORARY MOCK DATA FOR TESTING DASHBOARD COMPONENTS
+      // TODO: Remove this mock and restore API call after testing
+      const mockUser = {
+        id: 'test-user-123',
+        firstName: 'Sarah',
+        lastName: 'Johnson',
+        email: 'sarah.johnson@example.com',
+        headline: 'Senior Frontend Developer | React Specialist | AI Enthusiast',
+        profilePicture: 'https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face',
+        skills: [
+          { name: 'React', level: 95, category: 'technical' },
+          { name: 'JavaScript', level: 90, category: 'technical' },
+          { name: 'TypeScript', level: 85, category: 'technical' },
+          { name: 'Node.js', level: 80, category: 'technical' },
+          { name: 'Leadership', level: 88, category: 'soft' },
+          { name: 'Communication', level: 92, category: 'soft' }
+        ]
+      };
+      
+      // Simulate API delay
+      await new Promise(resolve => setTimeout(resolve, 1000));
+      setUser(mockUser);
+      
+      // Original API call (commented out for testing)
+      // const response = await api.get('/api/me');
+      // setUser(response.data);
     } catch (err) {
       console.error('Failed to fetch user:', err);
       setError(err.response?.data?.message || 'Failed to fetch user data');
