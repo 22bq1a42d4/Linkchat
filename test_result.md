@@ -260,6 +260,9 @@ metadata:
   version: "1.0"
   test_sequence: 1
   run_ui: true
+  testing_completed: true
+  total_tests_passed: 10
+  total_tests_failed: 0
 
 test_plan:
   current_focus: []
